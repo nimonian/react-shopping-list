@@ -1,4 +1,5 @@
-![example workflow](https://github.com/github/docs/actions/workflows/unit-test.yml/badge.svg)
+![example workflow](https://github.com/nimonian/react-shopping-list/actions/workflows/unit-test.yaml/badge.svg)
+
 
 # Getting Started with Create React App
 
