@@ -1,6 +1,3 @@
-![example workflow](https://github.com/nimonian/react-shopping-list/actions/workflows/unit-test.yml/badge.svg)
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
