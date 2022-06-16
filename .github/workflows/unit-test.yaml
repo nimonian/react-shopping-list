@@ -10,6 +10,7 @@ jobs:
       - name: Run tests
         run: npm run test
 
+  # disabled automatic review
   sonarcloud:
     runs-on: ubuntu-latest
     steps:
