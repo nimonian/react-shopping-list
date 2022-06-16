@@ -13,7 +13,7 @@ COPY . .
 
 EXPOSE 3000
 
-CMD ["npm", "run", "serve"]
+CMD ["npm", "run", "dev"]
 
 # 1. INSTALL A STATIC SERVER
 # npm i serve

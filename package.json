@@ -18,9 +18,9 @@
   "scripts": {
     "dev": "react-scripts start",
     "build": "react-scripts build",
-    "test": "jest",
     "eject": "react-scripts eject",
-    "serve": "react-scripts build && serve build -p 3000"
+    "serve": "react-scripts build && serve build -p 3000",
+    "test": "jest"
   },
   "eslintConfig": {
     "extends": [
