@@ -10,5 +10,7 @@ app.get('/name', (req, res) => {
   res.send(name)
 })
 
+// this is just a test for codespaces
+
 const PORT = 5000
 app.listen(PORT, () => { console.log(`server listening on ${PORT}`) })
